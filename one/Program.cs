@@ -8,17 +8,17 @@ a = -9 b = -3 -> max = -3 */
 
 
 Console.WriteLine("Введите первое число: ");
-int number1 = Convert.ToInt32(Console.ReadLine());
+int num1 = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите второе число: ");
-int number2 = Convert.ToInt32(Console.ReadLine());
+int num2 = Convert.ToInt32(Console.ReadLine());
 
-if (number1 > number2)
+if (num1 > num2)
 {
-    Console.WriteLine($"max = {number1}");
+    Console.WriteLine($"max = {num1}");
 }
-else if (number1 < number2)
+else if (num1 < num2)
 {
-    Console.WriteLine($"max = {number2}");
+    Console.WriteLine($"max = {num2}");
 }
 else
 {

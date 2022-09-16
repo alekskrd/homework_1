@@ -1,0 +1,15 @@
+/home/aleks/Документы/Example/one/bin/Debug/net6.0/Exp
+/home/aleks/Документы/Example/one/bin/Debug/net6.0/Exp.deps.json
+/home/aleks/Документы/Example/one/bin/Debug/net6.0/Exp.runtimeconfig.json
+/home/aleks/Документы/Example/one/bin/Debug/net6.0/Exp.dll
+/home/aleks/Документы/Example/one/bin/Debug/net6.0/ref/Exp.dll
+/home/aleks/Документы/Example/one/bin/Debug/net6.0/Exp.pdb
+/home/aleks/Документы/Example/one/obj/Debug/net6.0/Exp.csproj.AssemblyReference.cache
+/home/aleks/Документы/Example/one/obj/Debug/net6.0/Exp.GeneratedMSBuildEditorConfig.editorconfig
+/home/aleks/Документы/Example/one/obj/Debug/net6.0/Exp.AssemblyInfoInputs.cache
+/home/aleks/Документы/Example/one/obj/Debug/net6.0/Exp.AssemblyInfo.cs
+/home/aleks/Документы/Example/one/obj/Debug/net6.0/Exp.csproj.CoreCompileInputs.cache
+/home/aleks/Документы/Example/one/obj/Debug/net6.0/Exp.dll
+/home/aleks/Документы/Example/one/obj/Debug/net6.0/ref/Exp.dll
+/home/aleks/Документы/Example/one/obj/Debug/net6.0/Exp.pdb
+/home/aleks/Документы/Example/one/obj/Debug/net6.0/Exp.genruntimeconfig.cache
